@@ -9,6 +9,9 @@ Stanford
 Project for Graduate course in NTUA "Machine Learning & Data Science" , named BioData Analysis
 
 Konstantina Karaiskou
+
 Maria Kaiktzoglou
+
 Marilia Trivyza
+
 Dimitris Zerkelidis
